@@ -1,4 +1,4 @@
-# EasyProp
+# py2_EasyProp
 a simplified inferface to the CoolProp Python Wrapper 
 
 This interface extends the CoolProp Python wrapper in that two unit systems are allowed:
